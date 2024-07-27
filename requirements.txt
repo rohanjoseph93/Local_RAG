@@ -1,0 +1,5 @@
+pypdf
+python-docx
+docx2txt
+unstructured
+llama-cpp-python
